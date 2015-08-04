@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MYMUSIC</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">我的歌曲</string>
+    <string name="button2">我的最爱</string>
+    <string name="welcome">welcome</string>
+</resources>
